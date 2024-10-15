@@ -1,0 +1,23 @@
+<<<<<<<<<<<<<<<< Bus availability >>>>>>>>>>>>>>>>>>>
+
+1.Chennai to Coimbatore
+  Slot1 - Timing :6:00 a.m  
+  Slot2 - Timing :4:00 p.m
+  Slot3 - Timing :9:00 p.m
+
+2.Tirunelveli to Bangalore
+  Slot1 - Timing : 6:00 a.m
+  Slot2 - Timing : 4:00 p.m
+  Slot3 - Timing : 9:00 p.m
+
+3.Erode to Vishakapatnam
+  Slot1 - Timing : 6:00 a.m
+  Slot2 - Timing : 4:00 p.m
+  Slot3 - Timing : 9:00 p.m
+
+4.Chennai to Tirunelveli
+  Slot1 - Timing : 6:00 a.m
+  Slot2 - Timing : 4:00 p.m
+  Slot3 - Timing : 9:00 p.m
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>
